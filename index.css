@@ -1,0 +1,25 @@
+.header {
+    background-color: orange;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main {
+    background-color: blue;
+    text-align: center;
+}
+
+.empty {
+    background-color: white;
+    text-align: center;
+}
+
+.sidebar {
+    background-color: red;
+    text-align: center;
+}
+
+.footer {
+    background-color: green;
+    text-align: center;
+}
